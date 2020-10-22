@@ -1,0 +1,13 @@
+body{
+    min-height: 100vh;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#clock{
+    font-family: 'Roboto', sans-serif;
+    color: yellow;
+    font-size: 5rem;
+}
